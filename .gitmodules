@@ -1,0 +1,6 @@
+[submodule "fsn-frontend"]
+	path = fsn-frontend
+	url = https://github.com/federated-social-network/fsn-frontend.git
+[submodule "fsn-backend"]
+	path = fsn-backend
+	url = https://github.com/federated-social-network/fsn-backend.git
